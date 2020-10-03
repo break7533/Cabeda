@@ -6,7 +6,7 @@
 ### For more information visit my personal website https://cabeda.me/
 ##
 
-🏢 I'm currently work at Talkdesk as a Data Enginner.
+🏢 I'm currently working at Talkdesk as a Data Engineer.
 
 
 🌱 Besides liking Data I also enjoy learning about Javascript and web technologies in general.
@@ -28,5 +28,4 @@
 <img align="left" width="25" height="25" src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png" alt="Twitter Icon"> https://twitter.com/Jumpingtolife
 
 <img align="left" width="25" height="25" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" alt="Twitter Icon"> 
-jecabeda@gmail.com
-
+jecabeda at gmail.com
